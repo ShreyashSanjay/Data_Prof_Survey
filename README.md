@@ -2,4 +2,4 @@
 
 Visualising data on different questions asked to Data Professionals 
 
-![Dashboard](main/Data_Professional_Survey.pdf?raw=true)
+![Dashboard](Data_Professional_Survey.pdf?raw=true)
