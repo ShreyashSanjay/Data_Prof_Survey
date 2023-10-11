@@ -2,6 +2,5 @@
 
 Visualising data on different questions asked to Data Professionals 
 
-<h1 align="left">
-  <img src="Data_Professional_Survey.pdf" />
-</h1>
+![Dashboard](https://github.com/ShreyashSanjay/Data_Prof_Survey/assets/80293646/1ee00eed-79b8-42d8-a220-a4c9b8a3da22)
+
