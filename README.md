@@ -2,4 +2,4 @@
 
 Visualising data on different questions asked to Data Professionals 
 
-![Dashboard](/repository/Data_Professional_Survey.pdf?raw=true)
+![Dashboard](https://github.com/ShreyashSanjay/Data_Prof_Survey/blob/main/Data_Professional_Survey.pdf)
